@@ -44,8 +44,6 @@ def mostrar_resumen():
     print(cancion)
     
 
-          
-
 
 app()
 
